@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, i'm Simon 👋
+I'm a pharmacy student, and enjoy learning Cybersecurity, Networking, Linux...
 <!--
 **Simsdu/Simsdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
