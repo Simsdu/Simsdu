@@ -1,7 +1,9 @@
 ## Hi, i'm Simon 👋
-I'm actually a pharmacy student passionate about cybersecurity, currently self-learning through platforms like TryHackMe, various books, and different Linux environnments.
+I'm a pharmacy student passionate about cybersecurity, currently self-learning through platforms like TryHackMe, various books, and different Linux environnments.
 
-I'm building step-by-step skills in offensive, defensive security, and core cybersecurity fundamentals such as networking, operating systems, hardware architecture etc. My goal is to join an engineeting school specialized in cybersecurity. 
+I'm gradually building skills in offensive and defensive security, as well as core cybersecurity fundamentals such as networking, operating systems, hardware architecture. 
+
+My goal is to join an engineering school specialized in cybersecurity. 
 ### What i'm currently doing
 - Self-directed learning in cybersecurity
 - Completing pratical labs, challenges and CTFs
