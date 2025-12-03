@@ -6,7 +6,7 @@ I'm gradually building skills in offensive and defensive security, as well as co
 My goal is to join an engineering school specialized in cybersecurity. 
 ### What i'm currently doing
 - Self-directed learning in cybersecurity
-- Completing pratical labs, challenges and CTFs
+- Completing practical labs, challenges and CTFs
 - Documenting my progress and methods
 - Developing skills in penetration testing and system analysis
 ### My Portofolio
@@ -25,4 +25,4 @@ Each folder has a dedicated README explaining its content.
 Continue building my skills to join a cybersecurity engineering program.
 My aim is to apply these skills in a defensive and SOC-oriented path. 
 
-I want to focus on understanding attacks deeply so i can detect, analyze, and respond to them effectively.
+I want to focus on understanding attacks deeply so that i can detect, analyze, and respond to them effectively.
